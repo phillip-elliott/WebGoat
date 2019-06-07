@@ -112,6 +112,13 @@ public class LessonMenuItem {
         children.add(child);
     }
 
+    /*
+    Adding a some lines of nonesense to push findings
+    down some line numbers. This is to figure out if
+    git integration was working properly and stuff.
+    Blah blah blah.
+    Yada yada yada.
+    */
     /** {@inheritDoc} */
     @Override
     public String toString() {
